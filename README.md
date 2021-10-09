@@ -1,12 +1,12 @@
 
-### Olá! Eu sou o Jairo Fadul ✋
+### Hi! I'm Jairo Fadul ✋
 
 [![Blog](https://img.shields.io/website?label=curriculo.lattes&style=for-the-badge&url=http://lattes.cnpq.br/5482391365956398/)](http://lattes.cnpq.br/5482391365956398)
 
 ![Fadul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadultech&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadultech)](https://github.com/fadultech/github-readme-stats)
 
-## Tecnologias utilizadas
+## Technologies used
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,9 +19,9 @@
     <img align="center" alt="rn" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Analista/Programador formado na plataforma IBM/Mainframe, com Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas.
+Analyst/Programmer trained in IBM/Mainframe platform, with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas.
 <br/>
-Atualizando-se nas tecnologias Frontend/Backend/Mobile.
+Updating on Frontend/Backend/Mobile technologies.
 
-## Contato:
+## Contact:
 - [E-mail: jairo@fadul.tech](jairo@fadul.tech)<br/>
