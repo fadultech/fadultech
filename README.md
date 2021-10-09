@@ -4,7 +4,6 @@
 [![Blog](https://img.shields.io/website?label=curriculo.lattes&style=for-the-badge&url=http://lattes.cnpq.br/5482391365956398/)](http://lattes.cnpq.br/5482391365956398)
 
 ![Fadul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadultech&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadultech)](https://github.com/fadultech/github-readme-stats)
 
 ## Tecnologias utilizadas
