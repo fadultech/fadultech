@@ -19,7 +19,7 @@
     <img align="center" alt="rn" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Analista/Programador formado na plataforma IBM/Mainframe, com Cobol/CICSVS, PLI, Software AG Natural/Adabas, DB2. 
+Analista/Programador formado na plataforma IBM/Mainframe, com Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas.
 <br/>
 Atualizando-se nas tecnologias Frontend/Backend/Mobile.
 
