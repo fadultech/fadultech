@@ -21,7 +21,7 @@
 
 Analista/Programador formado na plataforma IBM/Mainframe, com Cobol/CICSVS, PLI, Software AG Natural/Adabas, DB2. 
 <br/>
-Evoluindo nas tecnologias Frontend/Backend/Mobile.
+Atualizando-se nas tecnologias Frontend/Backend/Mobile.
 
 ## Contato:
 - [E-mail: jairo@fadul.tech](jairo@fadul.tech)<br/>
