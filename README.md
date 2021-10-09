@@ -16,4 +16,11 @@
     <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="rn" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+</div><br/>
+
+Analista/Programador formado na plataforma IBM/Mainframe, com Cobol/CICSVS, PLI, Software AG Natural/Adabas, DB2. 
+<br/>
+Evoluindo nas tecnologias Frontend/Backend/Mobile.
+
+## Contato:
+- [E-mail: jairo@fadul.tech](jairo@fadul.tech)<br/>
