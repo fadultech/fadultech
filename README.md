@@ -26,7 +26,7 @@
   <img align="center" alt="cs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="dotnet" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="php" height="60" width="90" src="https://s3.amazonaws.com/ckl-website-static/wp-content/uploads/2021/03/react-native-examples-1280x680.png" />
+  <img align="center" alt="php" height="60" width="90" src="https://w7.pngwing.com/pngs/1021/477/png-transparent-react-native-javascript-mobile-app-development-github-symmetry-mobile-app-development-electric-blue-thumbnail.png" />
   
 </div><br/>
 
