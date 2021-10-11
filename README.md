@@ -26,7 +26,7 @@
   <img align="center" alt="cs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="dotnet" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="php" height="60" width="90" src="https://w7.pngwing.com/pngs/1021/477/png-transparent-react-native-javascript-mobile-app-development-github-symmetry-mobile-app-development-electric-blue-thumbnail.png" />
+  <img align="center" alt="php" height="60" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9i1gT56KM-6O3c1_rUOyg1lyZ6IcRaix3Eh6r-Goiq3G5ygvrAY2kFnwuwrY4Us-sOic&usqp=CAU" />
   
 </div><br/>
 
