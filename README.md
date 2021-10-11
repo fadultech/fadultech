@@ -3,9 +3,6 @@
 
 [![Blog](https://img.shields.io/website?label=curriculo.lattes&style=for-the-badge&url=http://lattes.cnpq.br/5482391365956398/)](http://lattes.cnpq.br/5482391365956398)
 
-![Fadul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadultech&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadultech)](https://github.com/fadultech/github-readme-stats)
-
 <div align="center">
   <a href="https://github.com/fadultech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadultech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
