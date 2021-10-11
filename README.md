@@ -19,9 +19,7 @@
     <img align="center" alt="rn" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Analyst/Programmer trained in IBM/Mainframe platform, with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas.
-<br/>
-Updating on Frontend/Backend/Mobile technologies.
+
 
 ## Contact:
 - [E-mail: jairo@fadul.tech](jairo@fadul.tech)<br/>
