@@ -26,7 +26,7 @@ Updating on Frontend/Backend/Mobile technologies.
   <img align="center" alt="cs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="dotnet" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="php" height="60" width="70" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fcheesecakelabs.com%2Fblog%2Freact-native-examples-innovative-brands%2F&psig=AOvVaw1gzK1RVj1-AzXxW4-fsnPv&ust=1634080417091000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPDckdm9w_MCFQAAAAAdAAAAABAN" />
+  <img align="center" alt="php" height="60" width="70" src="http://www.yournxt.com/wp-content/uploads/2019/09/react-native.jpg" />
   
 </div><br/>
 
