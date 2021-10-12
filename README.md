@@ -1,7 +1,7 @@
 
-### Hi! I'm Jairo Fadul ✋
+## Hi! I'm Jairo Fadul ✋
 
-#### Analyst/Programmer trained in IBM/Mainframe platform, with Cobol/CICSVS, PLI, Fortran, RPG, DB2, Software AG Natural/Adabas. 
+#### Analyst/Programmer trained in IBM/Mainframe platform, with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas. 
 #### Updating on Frontend/Backend/Mobile technologies.
 
 
@@ -14,9 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadultech&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Technologies used
-
   
+### Technologies used
   
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -32,5 +31,5 @@
 
 
 
-## Contact:
+### Contact:
 - [E-mail: jairo@fadul.tech](jairo@fadul.tech)<br/>
