@@ -1,7 +1,7 @@
 
 ## Hi! I'm Jairo Fadul ✋
 
-#### Analyst/Programmer trained in IBM/Mainframe platform, with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas. 
+#### Analyst/Programmer trained in IBM/Mainframe platform, with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas.
 #### Updating on Frontend/Backend/Mobile technologies.
 
 
