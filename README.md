@@ -3,6 +3,10 @@
 
 #### Analyst/Programmer trained in IBM/Mainframe platform, with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas.
 #### Updating on Frontend/Backend/Mobile technologies.
+#### Professor at the University of the State of Pará - UEPA, in courses:
+* Software Engineering
+* Systems Analysis and Development Technology
+* Production Engineering
 
 
 [![Blog](https://img.shields.io/website?label=curriculo.lattes&style=for-the-badge&url=http://lattes.cnpq.br/5482391365956398/)](http://lattes.cnpq.br/5482391365956398)
