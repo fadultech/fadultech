@@ -5,7 +5,7 @@
 #### Updating on Frontend/Backend/Mobile technologies.
 #### Professor at the University of the State of Pará - UEPA, in courses:
 * Software Engineering
-* Systems Analysis and Development Technology
+* Systems Analysis and Development Technologies
 * Production Engineering
 
 
