@@ -1,7 +1,7 @@
 
 ## Hi! I'm Jairo Fadul ✋
 
-### Analyst/Programmer trained in IBM/Mainframe platform, with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas.
+### Analyst/Programmer trained on IBM/Mainframe platform, with experience in Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas, Visual Basic, Delphi and Clipper.
 ### Updating on Frontend/Backend/Mobile technologies.
 ### Professor at the University of the State of Pará - Brazil, in courses:
 * Software Engineering
