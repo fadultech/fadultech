@@ -9,8 +9,7 @@
 * Production Engineering
 
 
-[![Blog](http://lattes.cnpq.br/5482391365956398
-ID Lattes:5482391365956398)
+[Curriculum Lattes](http://lattes.cnpq.br/5482391365956398)
 
 
 
