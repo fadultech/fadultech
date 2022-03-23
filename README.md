@@ -37,4 +37,4 @@
 
 
 ### Contact:
-- [E-mail: jairo@fadul.tech](jairo@fadul.tech)<br/>
+ <p>jairo@fadul.tech</p>
