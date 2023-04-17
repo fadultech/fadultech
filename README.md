@@ -1,8 +1,8 @@
 
 ## Hi! I'm Jairo Fadul ✋
 
-### Software Engineer formed in the IBM/Mainframe environment, with experience in Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas, Visual Basic, Delphi and Clipper.
-### Updating himself on Frontend/Backend/Mobile technologies.
+### Software Engineer with experience in systems development in IBM/Mainframe environment with Cobol/CICSVS, PLI, DB2, Software AG Natural/Adabas and Visual Basic, Delphi and Clipper.
+### Catching up on backend/frontend/mobile technologies.
 ### Professor at the State University of Pará - Brazil, in courses:
 * Software Engineering
 * Systems Analysis and Development Technologies
